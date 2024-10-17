@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Athif saheer a Full Stack Developer
 
-- 🔭 I’m currently working at Maxzon softwares PVT LTD..
+- 🔭 I’m currently working at Zappyhire..
 - 🌱 Learning all time about new technologies
 - 👯 I’m looking to collaborate on open-source-projects...
 - 📫 How to reach me:
